@@ -91,7 +91,7 @@ main a[href^="mailto:"] {
 /* Footer */
 footer {
     background-color: var(--footer-bg);
-    color: var(--white);
+    color: var(--blue);
     text-align: center;
     padding: 15px;
     position: relative;
@@ -101,7 +101,7 @@ footer {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 50px) {
     nav {
         flex-direction: column;
         text-align: center;
