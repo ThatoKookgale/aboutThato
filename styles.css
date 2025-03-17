@@ -28,7 +28,7 @@ header h1 {
 /* Navigation */
 nav {
     display: flex;
-    text-line: right ;   
+    text-line: left ;   
     padding: 15px;
     background: var(--primary-color);
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
