@@ -67,7 +67,7 @@ main img {
     height: auto;
     display: block;
     margin: 20px auto;
-    border: 5px solid var(--primary-color);
+    border: 5px solid var(--seconday-color);
     border-radius: 10px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
